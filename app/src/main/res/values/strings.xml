@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Titiribi</string>
+    <string name="titulo">titulo</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="iniciarSes">iniciarSes</string>
+    <string name="registrarse">registrarse</string>
+    <string name="INICIARSESION">INICIAR SESION</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="email">email</string>
+    <string name="Email">Email</string>
+    <string name="Repeatpassword">Repeat Password</string>
+    <string name="historia1">Titiribí es un municipio de la República de Colombia, localizado en la Subregión suroeste del Departamento de Antioquia. Limita por el norte con los municipios de Armenia y Angelópolis, por el este con los municipios de Angelópolis y Amagá, por el sur con el municipio de Venecia, y por el oeste con el municipio de Concordia.
+</string>
+    <string name="historia2">Fue fundado el 17 de abril de 1775 por el señor Benito del Río, en territorios de los indios Nutabes dirigidos por el Cacique Titiribí, de quien la población deriva su nombre.</string>
+    <string name="historia3">Su Economia se basa en la
+    Agricultura: café, caña de azúcar, plátano
+    Ganadería en las vertientes de los ríos. Y en la
+    Minería: carbón y oro
+
+</string>
+    <string name="MiPerfil">Mi Perfil</string>
+    <string name="Principal">Principal</string>
+    <string name="Cerrar">Cerrar Sesion</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contrasena">Contraseña</string>
+    <string name="Correo"> Email </string>
+    <string name="historia4">En el municipio se celebran las Fiestas de la Copla, en el mes de diciembre cada dos años
+Concurso Nacional de Poesía Inédita y Declamación, en el mes de junio
+Encuentro Nacional de Bandas Marciales, en el mes de marzo
+Encuentro Nacional de Danza folclórica en el mes de junio.
+Se realiza una exposición de asnales, mulas y capones en el mes de julio.</string>
+</resources>
