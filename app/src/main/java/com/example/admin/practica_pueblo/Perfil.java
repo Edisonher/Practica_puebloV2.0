@@ -52,16 +52,32 @@ public class Perfil extends AppCompatActivity {
                 startActivity(b);
                 finish();
                 break;
-            case R.id.Principal:
-                Intent a = new Intent(this,MainActivity.class);
-
-                startActivity(a);
+            case R.id.Hotel:
+                Intent b2 = new Intent(this,HotelActivity.class);
+                startActivity(b2);
                 finish();
                 break;
 
+            case R.id.Principal:
+                Intent b5 = new Intent(this,MainActivity.class);
+                startActivity(b5);
+                finish();
 
+                break;
+            case R.id.Restaurante:
+                Intent b3 = new Intent(this,RestauranteActivity.class);
+                startActivity(b3);
+                finish();
+
+                break;
+            case R.id.Sitios:
+                Intent b4 = new Intent(this,SitiosActivity.class);
+
+                startActivity(b4);
+                finish();
+
+                break;
         }
-
         return super.onOptionsItemSelected(item);
     }
 }

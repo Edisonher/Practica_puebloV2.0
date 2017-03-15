@@ -35,7 +35,26 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(b);
                 finish();
                 break;
+            case R.id.Hotel:
+                Intent b2 = new Intent(this,HotelActivity.class);
+                startActivity(b2);
+                finish();
+                break;
+
             case R.id.Principal:
+
+                break;
+            case R.id.Restaurante:
+                Intent b3 = new Intent(this,RestauranteActivity.class);
+                startActivity(b3);
+                finish();
+
+                break;
+            case R.id.Sitios:
+                Intent b4 = new Intent(this,SitiosActivity.class);
+
+                startActivity(b4);
+                finish();
 
                 break;
         }
